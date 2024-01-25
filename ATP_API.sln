@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATP_API", "ATP_API\ATP_API.csproj", "{EC99F50E-A490-432D-BB39-6E69293043FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC99F50E-A490-432D-BB39-6E69293043FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC99F50E-A490-432D-BB39-6E69293043FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC99F50E-A490-432D-BB39-6E69293043FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC99F50E-A490-432D-BB39-6E69293043FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {681E7022-0417-4FFA-BB23-B73DC0886F85}
+	EndGlobalSection
+EndGlobal

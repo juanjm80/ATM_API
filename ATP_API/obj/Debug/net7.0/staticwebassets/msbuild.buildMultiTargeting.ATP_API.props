@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ATP_API.props" />
+</Project>
